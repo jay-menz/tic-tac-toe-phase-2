@@ -147,7 +147,7 @@ function boxClicked() {
 
 
 
-
+//
 // minimax section 
 const posibleMove = (sign) => {
   let oponentSign;
